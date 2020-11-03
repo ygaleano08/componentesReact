@@ -4,10 +4,10 @@ import "./styles.css";
 import { Sidebar } from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 import { ThumbContainer } from "./components/Thumb-container";
-import fireIcon from "./images/tendencias.png";
 import homeIcon from "./images/home.png";
-import subscriptionsIcon from "./images/suscripcion.png";
-import notificationIcon from "./images/campana.png";
+import fireIcon from "./images/tendencias.png";
+import subscriptionsIcon from "./images/Suscripciones.png";
+import bibliotecaIcon from "./images/biblioteca.png";
 
 import youtubeLogo from "./images/logo.png";
 
@@ -29,8 +29,8 @@ class App extends React.Component {
           title: "Suscripciones"
         },
         {
-          icon: notificationIcon,
-          title: "Alerta"
+          icon: bibliotecaIcon,
+          title: "Biblioteca"
         }
       ],
       logo: youtubeLogo
