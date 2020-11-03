@@ -68,11 +68,11 @@ export function ThumbContainer() {
 
   let video8 = {
     title:
-      "BTop Hits 2020 | Ed Sheeran, Adele, Shawn Mendes, Maroon 5, Taylor Swift, Charlie Puth, Sam Smith",
+      "Viejitas Pero Bonitas, Marco Atonio Solis y Ana Grabriel las 35 Grandes Canciones",
     user: "Latin Songs",
     views: "737,100 vistas °13 feb. 2020",
     imgUrl:
-      "https://i.ytimg.com/vi/M7o1UDhtnZA/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBDS4Ul67dExkbjdy4R1gQNGgNhng"
+      "https://i.ytimg.com/vi/WYkARqRZAiY/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAoE5uY7nNX4FY8dFZ8zviZNaO1EQ"
   };
 
   return (
