@@ -73,7 +73,6 @@ body {
   color: grey;
   margin: 0px;
   font-weight: lighter;
-  text-align: center;
 }
 
 .searchbar {
@@ -97,12 +96,9 @@ body {
   max-height: 100%;
 }
 
-/*.card img{
-width: 500px;
-
-}
-
 .xy {
+  color: grey;
+  margin-left: -9px;
+  font-weight: lighter;
   text-align: center;
 }
-*/
