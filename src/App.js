@@ -8,9 +8,7 @@ import homeIcon from "./images/home.png";
 import fireIcon from "./images/tendencias.png";
 import subscriptionsIcon from "./images/suscripciones.png";
 import bibliotecaIcon from "./images/biblioteca.png";
-
 import youtubeLogo from "./images/logo.png";
-import videoIcon from "./images/video.png";
 
 class App extends React.Component {
   constructor() {

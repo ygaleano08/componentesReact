@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Logo(props) {
   return (
-    <div className="icon">
+    <div className="logo">
       <img src={props.logo} alt="logo" />
     </div>
   );
